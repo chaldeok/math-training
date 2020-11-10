@@ -19,7 +19,7 @@ Stack: HTML5, Bootstrap, JS, Vuejs,
 
 ### Demo of the project is available here
 ```
-https://chaldeok.github.io/Pages_flight-search-results/
+https://chaldeok.github.io/Pages_math-training/
 ```
 
 ## Download the repository and to install dependencies run command below in the root of the project
