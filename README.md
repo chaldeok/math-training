@@ -7,14 +7,14 @@ The application is divided into the following components:
 - message screen
 ```
 The simulator has 3 levels.
-
+```
 1st level: 
 you need to add the numbers from 10 to 50 and choose the correct answer from the two proposed options.
 2nd level: 
 add the numbers from 100 to 300 and choose the correct answer from the four proposed options.
 3rd level: 
 add the numbers from 500 to 900 and choose the correct answer from the six proposed options.
-
+```
 Stack: HTML5, Bootstrap, JS, Vuejs, 
 
 ### Demo of the project is available here
